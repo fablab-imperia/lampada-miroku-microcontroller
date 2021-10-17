@@ -1,4 +1,8 @@
-data
+data/index.html
+data/global.css
+data/favicon.png
+data/static
+data/build
 # Logs
 logs
 *.log
