@@ -1,0 +1,1 @@
+# software-lampada-miroku
